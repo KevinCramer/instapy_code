@@ -5,3 +5,5 @@ The accounts to follow are drawn from a unique list for each account which has b
 and accounts that are not within the correct niche. 
 
 You can also run the unfollow.py which unfollows the earliest x accounts you followed. You can specify the value x. 
+
+the cronjob.txt file shows a potential schedule that can be used for this engagement strategy. 
